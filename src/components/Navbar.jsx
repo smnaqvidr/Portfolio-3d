@@ -18,7 +18,7 @@ const Navbar = () => {
         <NavLink to='/contact' className={({ isActive }) => isActive ? "text-blue-600" : "text-black" }>
           Contact
         </NavLink>
-        <a href="https://drive.google.com/uc?export=download&id=1AdMfhli5Hcga-ZDHCHTkmb8wBo1jgtPM">Resume</a>
+        <a href="https://drive.google.com/uc?export=download&id=1hl8EK29GCX_lj-sOV-6PEr-cIYhctbe-">Resume</a>
       </nav>
     </header>
   );

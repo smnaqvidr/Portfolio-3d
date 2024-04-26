@@ -150,7 +150,7 @@ export const experiences = [
         company_name: "Ecohives",
         icon: ecohive,
         iconBg: "#383E56",
-        date: "September 2018 - August 2020",
+        date: "May 2021 - December 2023",
         points: [
         "Developed Ecohives’s Website leveraging WordPress, utilizing plugins, wrote custom CSS to match the prototype.",
         "Tested (unit testing and integration testing), resolved bugs in existing websites and introduced enhancements that boosted functionality and efficiency by 25%.",
@@ -176,7 +176,7 @@ export const experiences = [
         company_name: "Western University",
         icon: western,
         iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
+        date: "September 2018 - August 2020",
         points: [
             "Contributed to the improvement of university applications, primarily focusing on web development. Worked on Student Center portal, OWL (Online Western Learning Portal), and Western’s official website and ensured higher cross-browser compatibility resulting in 20% decrease in reported issues.",
             "Conducted research for our future apps, presenting feasibility studies, building prototypes using Figma, testing and collecting user feedback.",

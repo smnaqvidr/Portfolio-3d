@@ -10,7 +10,7 @@ const HomeInfo = ({ currentStage }) => {
         <span className='font-semibold mx-2 text-white'>Syed</span>
         👋
         <br />
-        Skilled software development engineer with <br />proficiency in front-end and back-end development
+        Skilled software development engineer with <br />proficiency in Data Integration and Full-Stack development
       </h1>
     );
 

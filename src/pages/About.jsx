@@ -22,7 +22,7 @@ const About = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-        Skilled software development engineer with proficiency in front-end and back-end development and over 4 years of professional experience. Expertise in full-stack development, web development, mobile app development, proficient in multiple programming languages, and adept at collaborating across cross-functional teams. Demonstrated success in delivering high-quality, scalable software within tight deadlines.
+        Skilled software development engineer with over 5 years of professional experience. Proficient in Data Integration with a strong background in system integration, data transformation, and full stack development. Expertise in web development, mobile app development, proficient in multiple programming languages, and adept at collaborating across cross-functional teams. Demonstrated success in delivering high-quality, scalable software within tight deadlines.
         </p>
       </div>
 

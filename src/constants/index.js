@@ -145,6 +145,34 @@ export const skills = [
 ];
 
 export const experiences = [
+    
+    {
+        title: "HIS Integration Developer",
+        company_name: "University Health Network",
+        iconBg: "#383E56",
+        date: "May 2021 - December 2023",
+        points: [
+        "Developed and tested interfaces within UHN’s new HIE engine project within the Epic ecosystem. Demonstrated proficiency by analyzing, translating and optimizing JAVA code into InterSystem (Object Script) allowing for seamless data integration and data synchronization across systems.",
+        "Maintained and developed HL7 interfaces leveraging knowledge of HL7 standards entailing interface components such as business services, processes, operations, business process logic, data transformation, and business rules that adhered to healthcare messaging protocols ensuring interoperability, efficiency and scalability.",
+        "Implemented and optimized HL7 message types, segments, fields, schemas and protocols, addressing complex interface challenges with innovative solutions.",
+        "Worked on interfaces including ICL, Softmic and Leica Stainers, currently paving the way for the implementation of SOAP/REST API for Clarity LIMS in our new InterSystems Iris/Health Connect Integration Engine.",
+        "Performed unit testing, PHI Bulking testing and Peer review to minimize bugs in interfaces and worked hand in hand with the Application team in assisting with workflow testing.",
+        "Collaborated with Senior Integration Manager, Project Management, Application teams, and technical teams to troubleshoot and meet the integration needs of UHN end users allowing for interoperability between different systems reducing technical issues and risks.",
+        "Actively attended and engaged in vendor training and certifications to maintain up-to-date expertise InterSystems Iris/Health Connect.",
+    ],
+    },
+    {
+        title: "Software Engineer/AI Training",
+        company_name: "Outlier AI",
+        
+        iconBg: "#383E56",
+        date: "May 2021 - December 2023",
+        points: [
+        "Optimized AI-assisted development by providing structured prompts to generate code in Java, Python, and JavaScript for specific scenarios and different classes, resulting in a 10% improvement in response accuracy through iterative analysis and selection of the best AI-generated code.",
+        "Engineered test cases with intentional bugs in custom code to evaluate AI-powered debugging skills, leading to improvement in AI consistency for detecting and explaining errors across various programming languages.",
+        "Conducted detailed peer reviews of AI response analytics, providing structured feedback and performance ratings, which enhanced report accuracy and improved AI model evaluation methodologies",
+    ],
+    },
     {
         title: "Software Developer/Specialist",
         company_name: "Ecohives",

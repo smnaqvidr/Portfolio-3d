@@ -150,7 +150,7 @@ export const experiences = [
         title: "HIS Integration Developer",
         company_name: "University Health Network",
         iconBg: "#383E56",
-        date: "May 2021 - December 2023",
+        date: "July 2024 - Present",
         points: [
         "Developed and tested interfaces within UHN’s new HIE engine project within the Epic ecosystem. Demonstrated proficiency by analyzing, translating and optimizing JAVA code into InterSystem (Object Script) allowing for seamless data integration and data synchronization across systems.",
         "Maintained and developed HL7 interfaces leveraging knowledge of HL7 standards entailing interface components such as business services, processes, operations, business process logic, data transformation, and business rules that adhered to healthcare messaging protocols ensuring interoperability, efficiency and scalability.",
@@ -166,7 +166,7 @@ export const experiences = [
         company_name: "Outlier AI",
         
         iconBg: "#383E56",
-        date: "May 2021 - December 2023",
+        date: "Jan 2024 - June 2024",
         points: [
         "Optimized AI-assisted development by providing structured prompts to generate code in Java, Python, and JavaScript for specific scenarios and different classes, resulting in a 10% improvement in response accuracy through iterative analysis and selection of the best AI-generated code.",
         "Engineered test cases with intentional bugs in custom code to evaluate AI-powered debugging skills, leading to improvement in AI consistency for detecting and explaining errors across various programming languages.",
